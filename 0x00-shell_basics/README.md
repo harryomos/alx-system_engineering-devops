@@ -1,1 +1,1 @@
-task 0. Where am i?
+display the contents list of your current directory in along format
